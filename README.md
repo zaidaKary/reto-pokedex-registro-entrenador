@@ -99,3 +99,7 @@ El proyecto incluye **371 tests** en **31 suites** cubriendo:
 - Componentes
 
 **Versión:** 1.0.0 | **Fecha:** 2026-06-30
+
+## 🎥 Link para ver video de funcionamiento
+
+[Ver Video](https://drive.google.com/file/d/10YfDneCExcMi5gRmW6J1s7VpwQYHjLK7/view?usp=drive_link)
